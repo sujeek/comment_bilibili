@@ -12,6 +12,9 @@ CSDN博客：https://blog.csdn.net/qq_36330643
 本场 Chat 主要内容：
 
 1.B 站弹幕的原理；
+
 2.Beautiful Soup 使用介绍；
+
 3.爬虫抓取 B 站弹幕；
+
 4.对弹幕进行简单分析。
